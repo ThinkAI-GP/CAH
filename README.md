@@ -10,4 +10,4 @@ Exigences: python 3+ pandas 0.25.1 sklearn 0.21.3 matplotlib 3.0.2 scipy
 
 installation: pip pandas; pip sklearn; pip matplotlib
 
-
+chargement:  chargez le fichier  cah sur iris.ipynb
